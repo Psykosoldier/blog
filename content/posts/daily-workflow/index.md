@@ -1,7 +1,7 @@
 ---
 title: "How I Run a Smart Home With an AI Agent as My Project Manager"
 date: 2026-09-24T00:00:00+02:00
-draft: true
+draft: false
 categories: ["architecture-systems"]
 tags: [daily-workflow, git-branching, issue-tracking, hardware, ci-cd]
 cover:

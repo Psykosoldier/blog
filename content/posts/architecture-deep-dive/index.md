@@ -1,7 +1,7 @@
 ---
 title: "The Actual Architecture Behind \"My House Runs on an AI Agent\""
 date: 2026-09-24T00:00:00+02:00
-draft: true
+draft: false
 categories: ["architecture-systems"]
 tags: [session-architecture, context-limits, memory, remote-control]
 cover:

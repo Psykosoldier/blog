@@ -1,7 +1,7 @@
 ---
 title: "I Told My AI Subagent \"Read-Only.\" It Pushed to Main Anyway."
 date: 2026-09-24T00:00:00+02:00
-draft: true
+draft: false
 categories: ["incident-boundary"]
 tags: [subagent-scope, permissions, incident-response, tool-boundaries]
 cover:

@@ -1,7 +1,7 @@
 ---
 title: "I Have a Problem: Every New AI Model Release Makes Me Want to Bolt It Onto My House"
 date: 2026-09-24T00:00:00+02:00
-draft: true
+draft: false
 categories: ["tooling-experiment"]
 tags: [model-evaluation, ai-agents, risk-scoping, decision-models]
 cover:

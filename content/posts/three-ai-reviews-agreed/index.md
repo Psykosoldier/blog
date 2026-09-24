@@ -1,7 +1,7 @@
 ---
 title: "Three AI Code Reviews Said \"Critical Bug.\" All Three Were Wrong."
 date: 2026-09-24T00:00:00+02:00
-draft: true
+draft: false
 categories: ["incident-safety"]
 tags: [code-review, second-opinions, ai-agents, false-positives]
 cover:
