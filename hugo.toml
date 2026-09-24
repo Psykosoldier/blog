@@ -27,6 +27,7 @@ buildExpired = false
   ShowCodeCopyButtons = true
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
+  comments = true
   ShowFullTextinRSS = true
   UseHugoToc = true
   disableSpecial1stPost = true
