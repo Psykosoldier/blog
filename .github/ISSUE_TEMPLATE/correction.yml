@@ -1,0 +1,24 @@
+name: Found a mistake
+description: Report a typo, broken link, or factual error in a post
+labels: ["correction"]
+body:
+  - type: input
+    id: post
+    attributes:
+      label: Which post?
+      description: Link or title of the article
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What's wrong?
+      description: Quote the passage if you can — makes it faster to find
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix (optional)
+    validations:
+      required: false
