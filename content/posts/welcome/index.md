@@ -1,7 +1,7 @@
 ---
 title: "Welcome — Running a Home on an AI Agent, and Writing Down What Breaks"
 date: 2026-09-24T00:00:00+02:00
-draft: true
+draft: false
 categories: ["welcome"]
 tags: [ai-agents, home-assistant, project-overview, second-opinions]
 cover:
